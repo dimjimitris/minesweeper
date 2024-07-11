@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: ntua.multimedia.minesweeper.MinesweeperApp
+Class-Path: javafx-controls-19.jar javafx-graphics-19-win.jar javafx-fxm
+ l-19-win.jar javafx-controls-19-win.jar javafx-base-19.jar javafx-graph
+ ics-19.jar javafx-base-19-win.jar javafx-fxml-19.jar
+

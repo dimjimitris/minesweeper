@@ -1,0 +1,5 @@
+40 76 226 player
+40 52 143 computer
+40 9 55 computer
+10 15 27 player
+10 18 84 player
